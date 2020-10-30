@@ -29,11 +29,11 @@ Also, added comments for clarity.
 
 ## Providing some screenshots
 
-[**Screenshot1**](images\1.png)
+![**Screenshot1**](images/1.png)
 
-[**Screenshot2**](images\2.png)
+![**Screenshot2**](images/2.png)
 
-[**Screenshot3**](images\3.png)
+![**Screenshot3**](images\03-javascript-homework-demo.png)
 
 ### **Links**
 
