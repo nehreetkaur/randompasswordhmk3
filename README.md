@@ -29,3 +29,14 @@ Also, added comments for clarity.
 
 ## Providing some screenshots
 
+[**Screenshot1**](images\1.png)
+
+[**Screenshot2**](images\2.png)
+
+[**Screenshot3**](images\3.png)
+
+### **Links**
+
+[**Github Repository**](https://github.com/nehreetkaur/randompasswordhmk3.git)
+
+[**Github Deployed Application**](https://nehreetkaur.github.io/randompasswordhmk3/)
