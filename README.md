@@ -33,10 +33,20 @@ Also, added comments for clarity.
 
 ![**Screenshot2**](images/2.png)
 
-![**Screenshot3**](images\03-javascript-homework-demo.png)
+![**Screenshot3**](images/4.png)
+
+
+
+
+
+
+
 
 ### **Links**
 
+
+
 [**Github Repository**](https://github.com/nehreetkaur/randompasswordhmk3.git)
+
 
 [**Github Deployed Application**](https://nehreetkaur.github.io/randompasswordhmk3/)
